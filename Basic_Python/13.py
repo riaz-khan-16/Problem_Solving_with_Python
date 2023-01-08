@@ -1,5 +1,5 @@
+#Perimeter Of Rhombus
 
-#Perimeter Of Square
 
 import math 
 
