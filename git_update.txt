@@ -4,4 +4,3 @@ git commit -m "New commit"
 git remote -v
 git pull origin main --rebase
 git push origin main
-l
