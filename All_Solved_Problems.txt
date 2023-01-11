@@ -79,3 +79,6 @@ Intermediate python program:
 38. Write a function to check if a given triplet is a Pythagorean triplet or not.
 39. Write a function that returns all prime numbers between two given numbers.
 40. Write a function that returns the sum of first n natural numbers.
+
+
+
