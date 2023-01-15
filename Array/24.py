@@ -6,25 +6,38 @@
 #  The subarrays are (1), (2), (3), (4), (1,2), (2,3), (3,4), (1,2,3), (2,3,4) and (1,2,3,4). 
 #  In general, for an array/string of size n, there are n*(n+1)/2 non-empty subarrays/substrings.
 
-num = [1,2,3,4]
+num=[1,2,-3,4,-6,-2]
+#method for finding all sub array
 
-#How to find all sub array of an array
-
-# def sub_arrays(arr):
-#     sub_arrays_list = []
-#     for i in range(len(arr)):
-#         for j in range(i, len(arr)):
-#             sub_arrays_list.append(arr[i:j+1])
-#     return sub_arrays_list
-# print(len(sub_arrays(num)))
-
-for i in range(len(num)):
-        print('value od i:',i)
-        for j in range(i, len(num)):
-            print('value od j:',j)
-            print((num[i:j+1]))
+def finaAllSubArra(num):
+        a=[]
+        for i in range(len(num)):
+                    for j in range(i,len(num)):
+                        a.append(num[i:j+1])
+        return a
 
 
 
+#method for making sum of a array:
+def sumofAnarray(a):
+            b=0
+            for i in a:
+                b=b+i
+            return b
+
+def findIndexOfX(a,x):
+        for i in range(len(a)):
+                if a[i]==x:
+                        index=i
+        return index
 
 
+
+
+a=finaAllSubArra(num)
+b=[]
+for i in a:
+         b.append(sumofAnarray(i))   
+c=max(b)    
+
+print(c)
