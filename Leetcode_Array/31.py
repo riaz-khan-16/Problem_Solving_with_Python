@@ -16,16 +16,19 @@ cStart = 4
 ans = []  #let the answer is
 left=cStart  # initial starting column number for left position
 right=cStart+1 #initial starting column number for right position
-top, bottom = rStart, rStart+1
-current = 1
-move = 0
+top= rStart # initial starting row number for top position
+bottom =rStart+1 #  # initial starting row number for bottom position
 
-def inbound( r, c, rows, cols):
-    return 0<=r<rows and 0<=c<cols
+current = 1  #
+move = 0     #
+
+def inbound( r, c, rows, cols):         
+    return 0<=r<rows and 0<=c<cols     #while row number is less than total rows and colmun number is less than total column numbers
 
 
 
-while current <= rows*cols:
+while current <= rows*cols: #while current is less than row*column
+    
     # fill top
     for i in range(left+move, right+1):
         if inbound(top, i, rows, cols):
