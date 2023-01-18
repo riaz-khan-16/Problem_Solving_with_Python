@@ -15,43 +15,47 @@ def makeZeroMatrix(n):
             a.append(b)
         return a
 
-z=makeZeroMatrix(3)
+n=5
+z=makeZeroMatrix(n)
+
 x=1
 top=0
-bottom=3
+bottom=n
 left=0
-right=3
+right=n
 
 
 
-for i in range(left,right): #top row
-    z[top][i]=x
-    x=x+1
-top=top+1
+while top<bottom and left<right:
+        for i in range(left,right): #top row
+            z[top][i]=x
+            x=x+1
+        top=top+1
 
-for j in range(top,bottom):  #right column
-    z[j][right-1]=x
-    x=x+1
-right=right-1    
-
-
-for k in range(right-1,left-1,-1):   #bottom row
-    z[bottom-1][k]=x
-    x=x+1
-bottom=bottom-1
-
-for l in range(bottom-1,top-1,-1):   # left column
-    z[l][top-1]=x
-    x=x+1   
-left=left-1    
-
-        
+        for j in range(top,bottom):  #right column
+            z[j][right-1]=x
+            x=x+1
+        right=right-1    
 
 
+        for k in range(right-1,left-1,-1):   #bottom row
+            z[bottom-1][k]=x
+            x=x+1
+        bottom=bottom-1
 
-            
+        for l in range(bottom-1,top-1,-1):   # left column
+            z[l][top-1]=x
+            x=x+1   
+        left=left+1    
+
+# for m in range(left,right):
+#     z[top][m]=x
+#     x=x+1
+    
+         
 
 print(z)
+
 
 
 
