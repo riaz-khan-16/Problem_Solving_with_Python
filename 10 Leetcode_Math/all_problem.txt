@@ -1,0 +1,36 @@
+## **Easy**
+
+1. [Roman to Integer.](https://leetcode.com/problems/roman-to-integer/)
+2. [Happy Number.](https://leetcode.com/problems/happy-number/)
+3. [Armstrong Numbers](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category%5B%5D=Mathematical&category%5B%5D=Mathematical&page=2&query=category%5B%5DMathematicalpage2category%5B%5DMathematical)
+4. [Power of Four](https://leetcode.com/problems/power-of-four/)
+5. [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1/?category%5B%5D=Mathematical&category%5B%5D=Mathematical&page=3&query=category%5B%5DMathematicalpage3category%5B%5DMathematical)
+6. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+7. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+8. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+9. [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+10. [Add Binary](https://leetcode.com/problems/add-binary/)
+11. [Power of Two](https://leetcode.com/problems/power-of-two/)
+
+## **Medium**
+
+1. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+2. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+3. [Gray Code](https://leetcode.com/problems/gray-code/)
+4. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+5. [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
+6. [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
+7. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+8. [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
+9. [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
+10. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+11. [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+12. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+13. [Integer Break](https://leetcode.com/problems/integer-break/)
+
+## **Hard**
+
+1. [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+2. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+3. [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+4. [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
