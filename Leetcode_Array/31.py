@@ -8,10 +8,10 @@
 # [4,0],[3,0],[2,0],[1,0],[0,0]]
 #
 #Given that:
-rows = 5
-cols = 6
-rStart = 1
-cStart = 4
+rows = 1
+cols = 4
+rStart = 0
+cStart = 0
              
 ans = []  #let the answer is
 left=cStart  # initial starting column number for left position
@@ -28,7 +28,7 @@ def inbound( r, c, rows, cols):
 
 
 while current <= rows*cols: #while current is less than row*column
-    
+
     # fill top
     for i in range(left+move, right+1):
         if inbound(top, i, rows, cols):
@@ -54,7 +54,9 @@ while current <= rows*cols: #while current is less than row*column
             current += 1
     bottom += 1
     move = 1
-    print(ans)
+
+    
+print(ans)
 
 
 
