@@ -1,3 +1,7 @@
+Topic: String
+Total 53 Questions
+
+
 ## **Easy**
 
 1. [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)

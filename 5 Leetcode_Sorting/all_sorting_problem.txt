@@ -1,3 +1,6 @@
+Topic: Sorting
+Total 43 Questions
+
 ## **Easy**
 
 1. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)

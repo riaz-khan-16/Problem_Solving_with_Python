@@ -1,3 +1,7 @@
+Topic: Recursion
+Total 82 Questions
+
+
 ## **Easy**
 
 1. [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) GFG

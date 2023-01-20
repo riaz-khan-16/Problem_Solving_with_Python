@@ -1,4 +1,8 @@
-## **Easy**
+  
+ Topic: Searching 
+ Total 42 Questions
+
+ ## **Easy**  
 
 1. [Square Root](https://leetcode.com/problems/sqrtx/)
 2. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
