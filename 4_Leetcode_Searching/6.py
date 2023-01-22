@@ -6,19 +6,20 @@
 
 # Given the integer n, return the number of complete rows of the staircase you will build.
 
-n=10
+n=5
 # 1
 # 11
 # 111
 # 1111
-
-def findK(n):
-    x=0
-    k=n
-    for i in range(n):
-        k=k-i
-        x=x+i
-        while k<x:
-            return k
+# Linear Search
+# def findK(n):
     
-print(findK(n))
+#     k=n
+#     r=0
+#     for i in range(n):
+#         k=k-i  
+#         while k<=i:
+#             return r
+#         r=r+1   
+    
+# print(findK(n))
