@@ -12,24 +12,29 @@
 # Input: grid = [[4,3,2,-1],[3,2,1,-1],[1,1,-1,-2],[-1,-1,-2,-3]]
 # Output: 8
 # Explanation: There are 8 negatives number in the matrix.
-grid = [[3,2],[1,0]]
+grid = [[3,-1,-3,-3,-3],[2,-2,-3,-3,-3],[1,-2,-3,-3,-3],[0,-3,-3,-3,-3]]
 arr=[-1,-1,-2,-3]
 def findNegative(arr):
+       l=len(arr)
        start=0
        end=len(arr)
        while start+1<end:
             mid=(start+end)//2
-            if arr[mid]<0 and arr[mid-1]>0:
-                return mid
+            if arr[mid]<0 and arr[mid-1]>=0:
+                return  len(arr)-mid
             elif arr[mid]>=0:
                  start=mid
             else:
                 end=mid
-       return  start       
-print(findNegative(arr))
+       if arr[l-1]>=0:
+              return 0        
+       return  len(arr)-start  
+     
+
 
 
 neg=0
 for i in grid:
-       neg=neg+(len(i)-findNegative(i))
+       print(findNegative(i))
+       neg=neg+(findNegative(i))
 print(neg)
