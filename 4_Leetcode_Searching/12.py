@@ -23,14 +23,20 @@ nums2 = [9,4,9,8,4]
 nums1 = [1,2,2,1]
 nums2 = [2,2]
 
-Inter=[]
+a=[]
 for i in nums2:
     if i in nums1:
-        Inter.append(i)
+        a.append(i)
 for i in nums1:
     if i in nums2:
-        Inter.append(i)  
-print(Inter )         
+        a.append(i)  
+b=[]
+for i in a:
+    if i not in b:
+        b.append(i)        
+print(b)        
+     
+
 
        
        
