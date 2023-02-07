@@ -1,3 +1,5 @@
+# 1. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
 # You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, 
 # representing the number of elements in nums1 and nums2 respectively.
 
@@ -35,8 +37,21 @@ m = 3
 nums2 = [2,5,6]
 n = 3
 
-for i in range(len(nums1)):
-    
 
+for i in nums2:
+    nums1.insert(m,i)
+    nums1.pop(len(nums1)-1)
 
+print(nums1)    
 
+def Bubblesort(a):
+    for i in range(len(a)):
+        for j in range(0,len(a)-1-i):
+            if a[j]>a[j+1]:
+                #swap
+                 temp=a[j]
+                 a[j]=a[j+1]
+                 a[j+1]=temp
+    return a            
+         
+print(Bubblesort(nums1)) 
