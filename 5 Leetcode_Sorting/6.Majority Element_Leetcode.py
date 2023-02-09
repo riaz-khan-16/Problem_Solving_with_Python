@@ -23,18 +23,17 @@ def FindMajority(arr):
     for i in arr:
         if i not in uniq:
              uniq.append(i)
-    return uniq       
+    x= uniq   
+    m=0
+    for i in x:
+        if nums.count(i)>m:
+            m=nums.count(i)
+    for i in x:
+        if nums.count(i)==m:
+            return i
+   
 
-x=FindMajority(nums) 
-print(x)     
-
-for i in x:
-    mj=0
-    if nums.count(i)> mj:
-       n=i
-       print(n)
-
-
+print(FindMajority(nums))
 
 
         
