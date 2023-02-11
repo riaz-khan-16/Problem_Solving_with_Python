@@ -1,0 +1,45 @@
+# https://leetcode.com/problems/maximum-product-of-three-numbers/
+
+
+# Given an integer array nums, find three numbers whose product is maximum and return the maximum product.
+
+ 
+
+# Example 1:
+
+# Input: nums = [1,2,3]
+# Output: 6
+# Example 2:
+
+# Input: nums = [1,2,3,4]
+# Output: 24
+# Example 3:
+
+# Input: nums = [-1,-2,-3]
+# Output: -6
+
+
+nums = [-100,-98,-1,2,3,4]
+
+ 
+
+
+def sort(a):
+    for i in range(len(a)):
+        for j in range(0,len(a)-1-i):
+            if a[j]>a[j+1]:
+                #swap
+                 temp=a[j]
+                 a[j]=a[j+1]
+                 a[j+1]=temp
+    return a  
+
+
+nums=sort(nums)
+
+p1=nums[-1]*nums[-2]*nums[-3]
+p2=nums[0]*nums[1]*nums[-1]
+
+
+print(max(p1,p2))
+
