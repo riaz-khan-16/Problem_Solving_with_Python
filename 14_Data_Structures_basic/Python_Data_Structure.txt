@@ -1,0 +1,15 @@
+Built-in Data Structure in Python:
+1 List
+2 Touple
+3 Dictionary
+4 Set
+
+User defined Data Structure in Python:
+
+1 Stack
+2 Tree
+3 Queue
+4 Linkedlist
+5 Graph
+6 Hashmap
+
