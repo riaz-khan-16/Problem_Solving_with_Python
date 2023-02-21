@@ -13,5 +13,3 @@ User defined Data Structure in Python:
 5 Graph
 6 Hashmap
 
-
-
