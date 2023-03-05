@@ -1,0 +1,41 @@
+Sharing with you LinkedIn posts that I have created in past on various technical interviews - 
+ Coding Interviews
+ System Design Interviews
+ Object-oriented Design Interviews
+ API Design Interviews
+ Schema Design Interviews
+ Behavioral Interviews, 
+
+The list also has strategies, roadmaps, resources, tips, etc.
+The posts described my journey that how I prepared for various technical
+interviews and how I was able to crack Google/Amazon interview rounds. 
+To keep all the content in one place, sharing below the collection of all those posts.
+
+ 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬 - https://lnkd.in/dsNgSDWg 
+
+ 𝐂𝐨𝐝𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 - https://lnkd.in/dqfMHvn9
+
+ 𝐓𝐨𝐩 𝐏𝐫𝐨𝐝𝐮𝐜𝐭-𝐛𝐚𝐬𝐞𝐝 𝐂𝐨𝐦𝐩𝐚𝐧𝐲'𝐬 𝐂𝐨𝐝𝐢𝐧𝐠 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 https://lnkd.in/d6gSfRC8
+
+ 𝐇𝐨𝐰 𝐭𝐨 𝐮𝐬𝐞 𝐋𝐞𝐞𝐭𝐂𝐨𝐝𝐞 𝐞𝐟𝐟𝐞𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐟𝐨𝐫 𝐂𝐨𝐝𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐬? - https://lnkd.in/dbUcPjZF
+
+ 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐞- https://lnkd.in/dkX2_RkH 
+
+ 𝐆𝐨𝐥𝐝𝐞𝐧 𝐑𝐮𝐥𝐞𝐬 𝐭𝐨 𝐚𝐧𝐬𝐰𝐞𝐫 𝐢𝐧 𝐚 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 - https://lnkd.in/dYXSHdFp
+
+ 𝐌𝐮𝐬𝐭-𝐤𝐧𝐨𝐰 𝐄𝐬𝐭𝐢𝐦𝐚𝐭𝐢𝐨𝐧𝐬 𝐟𝐨𝐫 𝐚 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 - https://lnkd.in/ds_B32Cd
+
+ 𝐎𝐛𝐣𝐞𝐜𝐭 𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐞 - https://lnkd.in/dnNrSD5U
+
+ 𝐁𝐞𝐡𝐚𝐯𝐢𝐨𝐫𝐚𝐥 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 - https://lnkd.in/dH_6U6TM
+
+ 𝐑𝐞𝐬𝐮𝐦𝐞 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐓𝐢𝐩𝐬- https://lnkd.in/dWCvq9E3
+
+ 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 𝐓𝐫𝐚𝐜𝐤𝐞𝐫 𝐀𝐩𝐩 - https://lnkd.in/dCMsuzmf
+
+
+
+
+
+Dinesh Varyani
+Cloud Engineer @Google

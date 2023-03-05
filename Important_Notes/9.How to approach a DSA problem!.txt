@@ -1,0 +1,10 @@
+
+How to approach a DSA problem!
+
+Same problem can have multiple solutions, the solution of a problem totally depends upon the approach
+ and sometimes even if you are not able to write the complete solution if your approach is right then
+  it leaves a good impression on the interviewer.
+
+Sharing a few tips to approach a DSA problem. If you find it helpful, kindly share it with your connections.
+
+post Link: https://www.linkedin.com/posts/imashishmishra_dsaproblemapproach-activity-7033640367832887296-K02o?utm_source=share&utm_medium=member_desktop

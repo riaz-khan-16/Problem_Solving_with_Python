@@ -1,0 +1,82 @@
+60+ Recently Asked Problems in Apple in Last 6 Months
+(Save the list for last minute interview preparation)
+
+Hope you find this helpful 😀
+
+Join DSAFREAKS Community for daily job and internship updates -
+https://lnkd.in/dzsDnr2e
+
+Follow Rishabh Panchal for more such amazing content :)
+
+Here is the list of problems -
+
+Easy Problems - 
+
+1. Maximum Subarray
+2. Rectangle Overlap
+3. Merge Sorted Array
+4. Find Winner on a Tic Tac Toe Game
+5. Longest Common Prefix
+6. Minimum Moves to Equal Array Elements
+7. Palindrome Permutation
+8. Happy Number
+9. Transpose Matrix
+10. Roman to Integer
+11. Remove Duplicates from Sorted List
+
+Medium Problems - 
+
+1. Word Search
+2. Single Number III
+3. Subsets
+4. Binary Tree Zigzag Level Order Traversal
+5. Course Schedule II
+6. Letter Combinations of a Phone Number
+7. Longest Increasing Subsequence
+8. Lowest Common Ancestor of a Binary Tree
+9. Combination Sum
+10. K Closest Points to Origin
+11. Word Ladder
+12. Swap Nodes in Pairs
+13. Find Peak Element
+14. Linked List Cycle II
+15. Container With Most Water
+16. Flatten Binary Tree to Linked List
+17. Set Matrix Zeroes
+18. Search a 2D Matrix II
+19. Find Minimum in Rotated Sorted Array
+20. Coin Change
+21. Multiply Strings
+22. Reverse Words in a String
+23. Permutations II
+24. Maximal Square
+25. Add and Search Word - Data structure design
+26. Add Two Numbers II
+27. Combinations
+28. Remove Duplicates from Sorted List II
+29. Reorganize String
+30. Reconstruct Itinerary
+
+Hard Problems - 
+
+1. First Missing Positive
+2. Word Ladder II
+3. Reverse Nodes in k-Group
+4. Word Break II
+5. The Skyline Problem
+6. Integer to English Words
+7. Serialize and Deserialize Binary Tree
+8. Sliding Window Median
+9. Sudoku Solver
+10. Design Search Autocomplete System
+11. Merge k Sorted Lists
+12. Concatenated Words
+13. Smallest Range Covering Elements from K Lists
+14. Alien Dictionary
+15. Longest Consecutive Sequence
+16. Interleaving String
+17. Jump Game II
+18. Longest Valid Parentheses
+19. Sliding Window Maximum
+20. Minimum Window Substring
+21. Binary Tree Maximum Path Sum
