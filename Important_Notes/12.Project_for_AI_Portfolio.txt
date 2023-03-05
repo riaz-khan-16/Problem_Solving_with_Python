@@ -1,0 +1,16 @@
+In my experience, the best way to acquire knowledge is by practicing.
+ If you want to switch your career to AI, GitHub is the best source of knowledge.
+
+Some examples of code that you can adapt to your portfolio:
+
+- Predict Customer Churn with Python
+- WhatsApp Group Chat Analysis
+- Deploy a Chatbot with Python
+- Fake News Detection Model
+- Image Segmentation
+
+See some examples in the comments below.
+
+In theory, theory and practice are the same, but in practice, they aren't.
+
+Looking to transition into a Data Science career? Subscribe to https://lnkd.in/dfNXNDa4 for weekly updates.
