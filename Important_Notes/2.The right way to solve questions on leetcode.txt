@@ -1,0 +1,48 @@
+Friend: I want to do leetcoding, but I don’t feel like doing it. I either solve the questions within 15 minutes, or I don’t do them at all.
+
+Me: 15 mins! Wow, that’s awesome. But how do you know that’s the best solution? Do you ponder over them once you get it right?
+
+Friend: Do I look like someone who looks back once I am done?
+
+Me: Oye dealer insaan, it’s important to understand the assumptions and tradeoffs of each solution.
+
+Also, don't forget to test your solution by coming up with your own test cases and doing dry runs before submitting it on leetcode.
+
+Your goal should be to get to the right answer in the fewest number of clicks on the submit button.
+
+Friend: Ok, I will try, but that takes away the fun and thrill of solving a lot of questions on leetcode.
+
+Me: It's not about quantity, it's about quality.
+
+After solving a problem, ask yourself:
+
+1. How do I make this solution better? How do I improve it's time complexity or readability?
+
+2. How can this question be asked in a different format?
+
+Friend: Okay, so what according to you is the right way to solve questions on leetcode?
+
+Me:
+
+1. Pick a problem and think out loud about how you want to solve it. This helps you identify issues quickly and keeps you prepared for interviews in terms of communication.
+
+2. Then, list potential test cases to test your solution, including boundary value test cases
+
+3. Write down the algorithm you initially thought of. Once you are done then do a dry run on paper.
+
+4. Once you're satisfied, click on the "Run/Execute" button to check for initial tests.
+
+a. If they pass, hit the submit button.
+b. If they fail:
+i) Check if the test case was part of the cases you listed earlier
+ii) If it was, figure out what went wrong and what you missed during the dry run
+
+Do not try to optimize your solution till you are able to solve it?.
+
+Once a problem is solved, think of ways to reduce the time complexity, or to improve readability.
+
+I am curious to know how all of you approach a problem on leetcode or other coding websites?
+
+
+Abhishek Kumar
+Engineering Manager @ Google 
