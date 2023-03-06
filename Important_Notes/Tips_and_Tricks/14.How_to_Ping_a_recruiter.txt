@@ -1,0 +1,51 @@
+Revanth Murigipudi
+SDE 2 @ Atlassian
+
+
+Why you’re not receiving replies from recruiters on LinkedIn.
+ I’ve put template I used to ping recruiters in this post. Keep reading.
+
+Here are a few reasons:-
+- You’re just texting hi/hello/need help/need job.
+- You’re not providing entire context in your first message.
+- You’re being rude.
+- You’re waiting for the other person to reply your message.
+- You’re texting as if you’re entitled (no kidding)
+
+Remember this, people HATE SMALL TALK on LinkedIn.
+
+Stop beating around the bush with hi, hello messages and 
+get to the point on the very first message you send them!!
+
+Here’s a template I used to ping recruiters always:-
+
+“Thank you for accepting my connection request (name).
+
+Here's a short intro about myself - I'm primarly a 
+backend Java engineer (4 YoE) and I've architected and built 2-3 products from scratch 
+at Autodesk and I maintain the product ownership as well. I found a couple of job roles
+ from the careers page that match my skillset and experience.
+
+(job links)
+
+Here's my resume for your reference - (resume link)
+My leetcode profile - (leetcode URL)
+
+Kindly let me know if you need any further information from my side to 
+initiate the interview process. Looking forward to your reply. Thank you!”
+
+I setup reminders on my Google calendar to follow up with
+ every recruiter who hasn’t replied back every single week. 
+ It’s a hectic and tiring process surely, but essential.
+
+Here’s a follow up template I used:-
+
+“Hello (name), just following up on my previous message. 
+Could you kindly let me know if my resume and skillsets are
+ good enough to be considered for the roles? I'd be happy to receive any answer.
+
+Looking forward to your reply. Thank you.”
+
+Had couple more templates as well, I’ll put them in comments due to word limit here.
+
+:)

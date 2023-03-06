@@ -7,12 +7,6 @@ sentence1 = "My name is Haley"
 sentence2 = "My Haley"
 
 #Method 1
-
-
-
- 
-
-
 def areSentencesSimilar(self, sentence1: str, sentence2: str) -> bool:
         s1 = sentence1.split()
         s2 = sentence2.split()
