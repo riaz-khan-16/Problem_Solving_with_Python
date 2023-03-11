@@ -4,9 +4,6 @@
 #Take help from Youtube: https://www.youtube.com/watch?v=NMP3nRPyX5g&t=173s
 #Solution:
 
-
-
-# Make a method to check is p is  a subsequence or not
 s = "abcacb"
 p = "ab"
 removable = [3,1,0]
