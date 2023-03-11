@@ -22,7 +22,7 @@ Total 35 Questions
 15. [Cohesion in Java](https://www.geeksforgeeks.org/cohesion-in-java/) GFG
 16. [Coupling in Java](https://www.geeksforgeeks.org/coupling-in-java/) GFG
 
-# **Interview Questions**
+# **Interview Questions*
 
 1. [Can we declare main() method as private or protected or with no access modifier in java?](https://www.tutorialspoint.com/can-we-declare-main-method-as-private-or-protected-or-with-no-access-modifier-in-java) Tutorialspoint
 2. [Difference between Method Overloading and Method Overriding in Java?](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/) GFG
