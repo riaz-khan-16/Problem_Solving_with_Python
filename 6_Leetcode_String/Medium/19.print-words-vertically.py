@@ -1,6 +1,6 @@
 #problem Link:  . [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 
-#Take help from Youtube:
+
 
 #Solution:
 
