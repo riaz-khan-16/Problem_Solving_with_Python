@@ -8,16 +8,6 @@
 
 #Brute Force Method
 
-a='abbbba'
-b='xyzbba'
-
-
-a = "ulacfd"
-b = "jizalu"
-
-
-a = "xbdef"
-b = "xecab"
 
 
 a = "x"
