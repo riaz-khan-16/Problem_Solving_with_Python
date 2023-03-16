@@ -1,6 +1,0 @@
-print('Riaz')
-print('Riaz1')
-print('Riaz2')
-print('Riaz3')
-print('Riaz4')
-print('Riaz5')
