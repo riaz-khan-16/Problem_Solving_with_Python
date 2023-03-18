@@ -6,8 +6,6 @@ N = 4
 
 
 def Fi(x):
-    if x>6:
-        return
     if x==1:
         return 1
     if x==2:
@@ -16,4 +14,4 @@ def Fi(x):
         return 2 
     return Fi(x-1)+Fi(x-2)+Fi(x-3)
    
-print(Fi(3))  
+print(Fi(6))  
