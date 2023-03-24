@@ -1,6 +1,6 @@
 arr=[1,2,3,4,5,9,5,7,8]
 
-target=9
+target=5
 
 
 def Find(arr,target,i):
