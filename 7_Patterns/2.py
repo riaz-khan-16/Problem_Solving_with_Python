@@ -7,8 +7,10 @@
 #     ****
 #     *****
 
-
-for i in range(0,6):
-    for j in range(0,i):
+n=5
+for i in range(0,n):
+    for j in range(0,i+1):
         print('*',end="")
-    print('')    
+    print('\r')    
+
+
