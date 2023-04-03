@@ -13,7 +13,6 @@ def f(arr,r,c,max):
              f(arr,r,c+1,c)
         else:
             f(arr,r,c+1,max)     
-
     
     else:
         arr[r-1],arr[max]=arr[max],arr[r-1]
