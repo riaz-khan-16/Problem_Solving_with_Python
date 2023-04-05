@@ -1,4 +1,4 @@
-#18. [Power of Three](https://leetcode.com/problems/power-of-three/) leetcode
+#18. [Power of Three](https://leetcode.com/problems/power-of-four/) leetcode
 
 
 def f(n):
