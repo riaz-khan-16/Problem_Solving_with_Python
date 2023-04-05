@@ -24,16 +24,18 @@ Total 82 Questions
 18. [Power of Three](https://leetcode.com/problems/power-of-three/) leetcode
 19. [Power of Four](https://leetcode.com/problems/power-of-four/) leetcode
 20. Write a recursive function for given n and a to determine x:
-21. n = a ^ x
-22. a = 2, 3, 4
-23. (2 ^ -31) <= n <= (2 ^ 31) - 1
-24. [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) HackerRank
-25. [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) GFG
-26. [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) leetcode
-27. [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) GFG
-28. [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) GFG
-29. [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) GFG
-30. [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) GFG
+
+                                        n = a ^ x
+                                        a = 2, 3, 4
+                                        (2 ^ -31) <= n <= (2 ^ 31) - 1
+
+21. [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) HackerRank
+22. [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) GFG
+23. [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) leetcode
+24. [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) GFG
+25. [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) GFG
+26. [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) GFG
+27. [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) GFG
 
 ## 
 
