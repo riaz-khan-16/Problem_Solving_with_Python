@@ -1,6 +1,12 @@
 
-Here is a list of topic-wise 500+ DSA problems:
+# DSA Problem Solving
 
+### The repository contains: 
+It contains a collection of 500+ DSA  question asked in FAANG interview.
+The questions are collected from Leetcode and geekforgeeks.
+
+### The topics are:
+Here is a list of topic-wise 500+ DSA problems:
 - Array
 - Searching
 - Sorting
@@ -8,12 +14,10 @@ Here is a list of topic-wise 500+ DSA problems:
 - Recursion
 - Bitwise
 - OOP
-- LinkedList,
+- LinkedList
 - Stack-Queue
 
-which I made by collecting suggestions from different types of people, especially from Kunal Kushwaha.
-
-The problems sources:
+### The problems sources:
 
 - Leetcode
 - GeeksforGeeks
