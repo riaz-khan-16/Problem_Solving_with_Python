@@ -3,6 +3,5 @@
 # https://www.youtube.com/watch?v=20mjBSByOaQ
 #Do in Bruteforce
 
-s = "YazaAay"
-
-nice=''
+  
+    
