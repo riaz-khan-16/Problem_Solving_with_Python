@@ -1,6 +1,6 @@
 git add .
 git status
-git commit -m "New commit prboblem no 296"
+git commit -m "Bossocder Academy documents added"
 git remote -v
 git pull origin main --rebase
 git push origin main
