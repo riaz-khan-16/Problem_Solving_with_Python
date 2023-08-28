@@ -108,5 +108,9 @@ x.deleteNode()
 x.deleteNodeAt(2)
 
 x.printNode()
-print(x.listLength())     
+print(x.listLength())  
+
+
+
+
 
