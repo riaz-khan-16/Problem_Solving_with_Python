@@ -7,58 +7,6 @@
 # #  3. if there is two middle select the second
 # #  4.find that position node
 
-
-# class Node:
-#     def __init__(self,data,next=None):
-#         self.data=data
-#         self.next=next
-
-# def printNode(head):
-#         currentNode=head
-#         while True:
-#             if currentNode is None:
-#                 break  
-#             print(currentNode.data)
-#             currentNode=currentNode.next 
-
-# def listLength(head):
-#         currentNode=head
-#         length=0
-#         while currentNode is not None:
-#             currentNode=currentNode.next
-#             length=length+1
-#         return length            
-
-# n6=Node(6)
-# n5=Node(5,n6)
-# n4=Node(4,n5)
-# n3=Node(3,n4)
-# n2=Node(2,n3)
-# n1=Node(1,n2)
-
-# printNode(n1)
-
-# print("before:")          
-
-# position=listLength(n1)
-# if position%2==1:
-#      position=(position//2)+1
-# else:
-#      position=position//2
-
-# print(position)
-
-# def find_node(position,head):
-#      curr=head
-#      cp=0
-#      while True:
-#         if cp==position:
-#             return curr.data
-#             break
-#         cp=cp+1
-#         curr=curr.next
-
-
      
      
 
