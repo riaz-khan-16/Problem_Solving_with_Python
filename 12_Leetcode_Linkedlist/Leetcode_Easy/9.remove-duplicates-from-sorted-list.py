@@ -26,8 +26,6 @@ def print_list(head):
 n1=ListNode(1)
 n2=n1.next=ListNode(1)
 n3=n2.next=ListNode(3)
-
-
 deleteDuplicates(n1)
 
 print_list(n1)
