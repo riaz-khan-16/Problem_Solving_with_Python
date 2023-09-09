@@ -5,7 +5,7 @@ Welcome to the DSA Practice Repository, a comprehensive collection of 500+ data 
 
 
 
-###Repository Contents
+### Repository Contents
 This repository is organized into the following key topics, making it easy for you to focus on specific areas of DSA:
 
 Array: Solve a variety of array-based problems to master fundamental concepts.
@@ -19,7 +19,8 @@ LinkedList: Master linked list data structures and algorithms.
 Stack-Queue: Learn about stacks and queues, their applications, and algorithms.
 
 
-###Features
+### Features
+
 Detailed Explanations: Each problem comes with clear explanations and comments in the code to help you understand the problem and solution.
 Sample Input/Output: Find sample input and output cases for every problem to test your solutions.
 Test Cases: Benefit from a set of test cases for each problem to validate your implementations.
@@ -35,7 +36,7 @@ Explore different solution variations and approaches.
 Contribution Guidelines
 We welcome contributions to this repository. If you'd like to contribute new problems, improve existing solutions, or suggest enhancements, please follow our contribution guidelines.
 
-#Stay Connected
+# Stay Connected
 Feel free to ask questions, provide feedback, or engage in discussions on our GitHub Discussions board.
 
 Happy coding and best of luck with your DSA journey!
