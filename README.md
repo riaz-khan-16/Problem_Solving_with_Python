@@ -1,4 +1,4 @@
-# DSA Practice Repository
+## DSA Practice Repository
 
 Welcome to the **DSA Practice Repository**, your one-stop destination for honing your Data Structures and Algorithms (DSA) skills. This repository boasts a vast collection of over 500 carefully curated problems sourced from reputable platforms like LeetCode and GeeksforGeeks. Whether you're preparing for FAANG (Facebook, Apple, Amazon, Netflix, Google) interviews, acing your computer science coursework, or simply looking to bolster your DSA expertise, this repository is the perfect companion on your journey.
 
