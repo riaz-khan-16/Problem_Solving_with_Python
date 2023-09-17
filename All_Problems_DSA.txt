@@ -67,7 +67,7 @@ Intermediate python program:
 33. Define a method to find out if a number is prime or not
 34. Write a program that will ask the user to enter his/her marks (out of 100). Define a method that will display grades according to the marks entered as below:
 
-35. [Write a program to print the factorial of a number by defining a method named 'Factorial' 
+35. Write a program to print the factorial of a number by defining a method named 'Factorial' 
     4! = 1 * 2 * 3 * 4 = 24
     3! = 3 * 2 * 1 = 6
     2! = 2 * 1 = 2
